@@ -1,2 +1,2 @@
 # MPC
-Free to play around with.
+Digital interfaces & Sound Customization.
